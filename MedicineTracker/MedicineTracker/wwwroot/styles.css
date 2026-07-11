@@ -1,0 +1,36 @@
+body {
+    font-family: Arial;
+    margin: 20px
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px
+}
+
+.red {
+    background: #ffb3b3
+}
+
+.yellow {
+    background: #fff4a3
+}
+
+input {
+    margin: 5px;
+    padding: 6px
+}
+
+select {
+    padding: 8px;
+    margin: 5px;
+}
+
+h3 {
+    margin-top: 25px;
+}

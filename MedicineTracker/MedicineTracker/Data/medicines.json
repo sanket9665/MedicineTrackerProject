@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Paracetamol 500mg",
+    "Notes": "Pain Relief",
+    "ExpiryDate": "2026-08-20T00:00:00",
+    "Quantity": 0,
+    "Price": 25.50,
+    "Brand": "ABC Pharma"
+  },
+  {
+    "Id": 2,
+    "FullName": "Crocin 650",
+    "Notes": "Fever Medicine",
+    "ExpiryDate": "2027-05-20T00:00:00",
+    "Quantity": 25,
+    "Price": 50.75,
+    "Brand": "GSK"
+  },
+  {
+    "Id": 3,
+    "FullName": "DOLO ",
+    "Notes": "Fever Cold",
+    "ExpiryDate": "2029-10-23T00:00:00",
+    "Quantity": 60,
+    "Price": 780,
+    "Brand": "Cipla"
+  },
+  {
+    "Id": 4,
+    "FullName": "DOLO 300",
+    "Notes": "Fever Cold",
+    "ExpiryDate": "2026-07-16T00:00:00",
+    "Quantity": 45,
+    "Price": 67,
+    "Brand": "Cipla"
+  }
+]

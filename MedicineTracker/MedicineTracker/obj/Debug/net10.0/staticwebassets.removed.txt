@@ -1,0 +1,3 @@
+C:\Users\prashant\Downloads\MedicineTrackerFull\wwwroot\app.js
+C:\Users\prashant\Downloads\MedicineTrackerFull\wwwroot\index.html
+C:\Users\prashant\Downloads\MedicineTrackerFull\wwwroot\styles.css
